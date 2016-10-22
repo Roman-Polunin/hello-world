@@ -1,2 +1,2 @@
 # hello-world
-first entries
+Hi! I learn Java to begin working as programmer.
